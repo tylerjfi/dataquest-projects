@@ -14,9 +14,13 @@ Order of the projects done/course associated:
   4. Clean And Analyze Employee Exit Surveys.ipynb
     
         Data Cleaning and Analysis
-  5. Data Cleaning Walkthrough & Project.ipynb
+  5. Visualizing Earnings Based On College Majors.ipynb
+  
+  
+        Exploratory Data Visualization
+  6. Data Cleaning Walkthrough & Project.ipynb
     
         Data Cleaning in Python: Advanced
-  6. Star Wars Project.ipynb
+  7. Star Wars Project.ipynb
     
         Data Cleaning in Python: Advanced
