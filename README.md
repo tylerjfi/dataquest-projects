@@ -1,4 +1,4 @@
-# dataquest-projects
+# Dataquest Projects
 Various projects done while learning data science through DataQuest
 
 Order of the projects done/course associated:
