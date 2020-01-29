@@ -24,3 +24,6 @@ Order of the projects done/course associated:
   7. Star Wars Project.ipynb
     
         Data Cleaning in Python: Advanced
+  8. Analyzing CIA Factbook Data Using SQLite and Python.ipynb
+  
+        SQL Fundamentals Course
